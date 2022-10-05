@@ -1,3 +1,4 @@
+from functionch import*
 deck = InitialDeck()
 PrintDeck(deck)
 while True:
