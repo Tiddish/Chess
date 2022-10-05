@@ -185,5 +185,3 @@ class queen(Chess):
                 self.colomn = colomn
                 deck[row][colomn] = self
         else: print("Некоректный ввод")
-
-        a = 2
